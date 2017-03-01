@@ -13,6 +13,9 @@ speed = 12/Ts
 slabljenje= 0.5
 
 #to je komentar
+#L1="y g r g b g b r m y r g y m r g r m b m r g r y r b y m g m b m"
+#L2="y r y g m y g r b r b m g r g r b m g m b g r g r m y g y b m b"
+#L3="m y b g y r g m y b g m g m b r y g r y r m g b y r g m g y g r"
 
 
 # Set up the motor ports
